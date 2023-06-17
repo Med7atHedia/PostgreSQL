@@ -1,1 +1,3 @@
 sudo apt-get install postgresql
+
+psql --version
