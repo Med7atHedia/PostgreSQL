@@ -23,5 +23,12 @@ createuser --createdb --username postgres --no-createrole --no-superuser --pwpro
 
 \l
 
+# version
 
 psql --version
+
+# Set root user credentials
+
+sudo -u postgres psql
+ALTER USER postgres PASSWORD 'newpassword';
+psql -U postgres -h localhost
