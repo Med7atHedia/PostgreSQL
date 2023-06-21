@@ -32,3 +32,7 @@ psql --version
 sudo -u postgres psql
 ALTER USER postgres PASSWORD 'newpassword';
 psql -U postgres -h localhost
+
+# Solution status
+
+pg_lsclusters
