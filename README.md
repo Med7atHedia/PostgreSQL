@@ -1,5 +1,5 @@
 
-# install postgresql
+## 1.install postgresql
 
   sudo apt install postgresql
 
