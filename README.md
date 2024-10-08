@@ -7,11 +7,15 @@ sudo apt install postgresql
 
 ## 2. version
 
+```bash
 psql --version
+```
 
-# open postgresql
+## 3. open postgresql
 
+```bash
 sudo su postgres
+```
 
 # Using PSQL
 
