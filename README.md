@@ -1,7 +1,7 @@
 
 # install postgresql
 
-sudo apt install postgresql postgresql-client
+sudo apt install postgresql
 
 # open postgresql
 
