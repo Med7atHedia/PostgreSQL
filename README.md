@@ -1,7 +1,7 @@
 
 ## 1. install postgresql
-
-  $sudo apt install postgresql
+"sudo apt install postgresql"
+ sudo apt install postgresql
 
 # open postgresql
 
