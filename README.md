@@ -1,7 +1,11 @@
 
 ## 1. install postgresql
-"sudo apt install postgresql"
+
  sudo apt install postgresql
+
+## 2. version
+
+psql --version
 
 # open postgresql
 
@@ -24,9 +28,7 @@ createuser --createdb --username postgres --no-createrole --no-superuser --pwpro
 
 \l
 
-# version
 
-psql --version
 
 # Set root user credentials
 
